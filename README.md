@@ -9,5 +9,5 @@ About the labyrinth
   'S' - Is the start.
   'F' - Is the Finish.
   '-' - Is a free block.
-  '*' - Visited block
-  '@' - Marks the path to the finish line
+  '*' - Visited block<br>
+  '@' - Marks the path to the finish line<br>
